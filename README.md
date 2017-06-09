@@ -1,14 +1,14 @@
 # Project Title 
 
-You may also wish to add your name and any related info 
+You may also wish to add your name and any related info; if your project has a URL, then you could include it 
 
 ## Project Description 
 
 Consider relationship between digital studies and literary/cultural studies as well as how you'd describe your project for a broad audience; this may also be something like a statement by the author/editor/designer/editor, with a rationale for what you're doing 
 
-## Files 
+## Files and Specifications 
 
-Any comments about the code, data, metadata, markup, digitized materials
+Any comments about the code, data, metadata, markup, digitized materials; also a recipe or list of technical details 
 
 ## Instructions 
 
@@ -16,7 +16,7 @@ For use, installation, repurposing
 
 ## Dependencies 
 
-What else your project needs to work (e.g., Python libraries) 
+What else your project needs to work (e.g., Python libraries); you could also mention on what machines your project was tested (software, OS, versions, browsers) 
 
 ## Audience 
 

@@ -46,6 +46,10 @@ If you get one (perhaps relevant down the line)
 
 Opportunity to acknowledge collaborators, territory, influences, source code  
 
+## Jokes and Humour 
+
+Remarks about what didn't work, what's an experiment, possible/actual surprises, what could be improved
+
 ## Bibliography 
 
 Relevant reading and projects; also, source material

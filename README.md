@@ -56,4 +56,4 @@ If you'd like to include one for your audience.
 
 ## Change Log 
 
-Significant changes to the project 
+Significant changes to the project (e.g., Version 1.0, 1.1, 1.2, 2.0) 

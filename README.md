@@ -1,5 +1,6 @@
 # Project Title 
-Your name and any related info you wish to add 
+
+You may also wish to add your name and any related info 
 
 ## Project Description 
 
